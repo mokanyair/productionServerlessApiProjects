@@ -12,7 +12,7 @@ terraform {
     organization = "Enterpriseair-Cloud"
 
     workspaces {
-      name = "eventbridge-project"
+      name = "productionServerlessApiProjects"
     }
   }
 }
